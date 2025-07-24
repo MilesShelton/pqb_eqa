@@ -12,13 +12,12 @@ This tool can be used to build environments in Minecraft from a collection of pr
 
 ## Bibtex
 ```bibtex
-@inproceedings{
-anonymous2025grounded,
-title={Grounded, or a Good Guesser? A Per-Question Balanced Dataset to Separate Blind from Grounded Models for Embodied Question Answering},
-author={Anonymous},
-booktitle={The 63rd Annual Meeting of the Association for Computational Linguistics},
-year={2025},
-url={https://openreview.net/forum?id=RWLUZDFbiF}
+@inproceedings{shelton2025grounded,
+    title={Grounded, or a Good Guesser? A Per-Question Balanced Dataset to Separate Blind from Grounded Models for Embodied Question Answering},
+    author={Miles Shelton AND Nate Wingerd AND Kritim K. Rijal AND Ayush Garg AND Adelina Gutic AND Brett Barnes AND Catherine Finegan-Dollak},
+  booktitle={The 63rd Annual Meeting of the Association for Computational Linguistics},
+    year={2025},
+    url={https://openreview.net/forum?id=RWLUZDFbiF}
 }
 ```
 
