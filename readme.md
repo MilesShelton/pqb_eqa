@@ -5,7 +5,11 @@ Miles Shelton, Nate Wingerd, Kritim K. Rijal, Ayush Garg,
 Adelina Gutic, Brett Barnes, Catherine Finegan-Dollak
 </p>
 
-<br><br><br>
+<br>
+
+![Lots of environments](/lots_of_environments.PNG)
+
+<br>
 This is the repository for the dataset and dataset generator used in the paper "Grounded, or a Good Guesser? A Per-Question Balanced Dataset to Separate Blind from Grounded Models for Embodied Question Answering" 
 
 This tool can be used to build environments in Minecraft from a collection of prebuilt corners dynamically. Currently it is capable of generating 891 unique environments.
