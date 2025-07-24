@@ -1,0 +1,6 @@
+nether strider ~ ~ ~-15
+cave bat ~7 16 ~9
+desert rabbit{RabbitType:4} ~ ~ ~
+city villager|wolf ~ ~ ~
+snow polar_bear|wolf|rabbit{RabbitType:1} ~ ~ ~
+mansion ~ ~ ~-20
