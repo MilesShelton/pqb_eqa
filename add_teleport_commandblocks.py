@@ -194,8 +194,8 @@ def add_spawn_teleporter(world,env,env_number,env_location,command_block_templat
 def main():
     print("Cloning built environment")
 
-    source_name = "eqa_environment"
-    new_env_name = "env_with_teleports"
+    source_name = "pre_commands"
+    new_env_name = "qea_environment"
 
     setup_new_environment(source=source_name,dest=new_env_name) # clones template world and changes name to new_environment
 

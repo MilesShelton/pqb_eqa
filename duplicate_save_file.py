@@ -11,7 +11,7 @@ def copyanything(src, dst):
 def duplicate_world(template_name, world_name):
     copyanything("saves/"+template_name,"saves/"+world_name)
 
-def setup_new_environment(source="template_please_dont_delete",dest="eqa_environment"):
+def setup_new_environment(source="template_please_dont_delete",dest="pre_commands"):
     try:
         shutil.rmtree("saves/"+dest)
     except:

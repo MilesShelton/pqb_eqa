@@ -1,17 +1,425 @@
 Environment
-town nw3_ne2_sw1_se1
-beach nw2_ne3_sw1_se3
-circus nw2_ne1_sw2_se2
-snow nw3_ne2_sw3_se2
+plains nw2_ne1_sw3_se1 sheep sheep cow chicken chicken
+cave nw3_ne2_sw1_se1 bat bat bat bat bat
+plains nw2_ne2_sw2_se2
+city nw3_ne1_sw2_se2 villager villager wolf wolf wolf
+plains nw2_ne2_sw2_se2
+cave nw1_ne1_sw3_se2 bat bat bat bat bat
+plains nw2_ne3_sw3_se1 chicken cow chicken pig chicken
+town nw2_ne3_sw2_se1 sheep cow pig cow sheep
+city nw2_ne1_sw2_se2 wolf villager villager villager wolf
+cave nw3_ne2_sw1_se2 bat bat bat bat bat
+plains nw1_ne1_sw1_se1
+nether nw3_ne3_sw2_se1 strider strider strider strider strider
+desert nw1_ne3_sw3_se3 rabbit rabbit rabbit rabbit rabbit
+cave nw2_ne3_sw1_se1 bat bat bat bat bat
+snow nw3_ne3_sw3_se3
+cave nw3_ne3_sw2_se1 bat bat bat bat bat
+city nw3_ne3_sw3_se3
+mansion nw3_ne3_sw3_se3
+city nw3_ne3_sw3_se1 villager villager wolf villager wolf
+desert nw1_ne2_sw2_se1 rabbit rabbit rabbit rabbit rabbit
+town nw1_ne3_sw1_se3 cow pig sheep chicken chicken pig
+plains nw3_ne1_sw3_se1 pig chicken pig chicken cow cow cow cow
+plains nw3_ne2_sw2_se2 chicken cow chicken chicken sheep
+cave nw2_ne3_sw1_se1 bat bat bat bat bat
+nether nw3_ne1_sw1_se3 strider strider strider strider strider
+cave nw1_ne3_sw1_se1 bat bat bat bat bat
+nether nw1_ne1_sw1_se3 strider strider strider strider strider
+plains nw2_ne2_sw2_se2
+nether nw1_ne2_sw1_se1 strider strider strider strider strider
+plains nw3_ne3_sw3_se3
+desert nw1_ne1_sw1_se1
+snow nw3_ne3_sw3_se3
+cave nw1_ne3_sw3_se1 bat bat bat bat bat
+desert nw1_ne1_sw1_se1
+town nw1_ne2_sw1_se2 chicken sheep pig cow sheep
+plains nw1_ne2_sw2_se3 sheep chicken pig pig cow
+cave nw3_ne1_sw1_se3 bat bat bat bat bat
+city nw1_ne2_sw3_se3 villager wolf wolf wolf villager
+cave nw1_ne3_sw3_se2 bat bat bat bat bat
+cave nw3_ne1_sw2_se1 bat bat bat bat bat
+mansion nw3_ne1_sw3_se1 sheep cow pig sheep chicken
+plains nw2_ne2_sw2_se2
+mansion nw1_ne3_sw3_se2 chicken sheep chicken pig pig
+plains nw3_ne1_sw3_se1 pig pig cow chicken sheep
+nether nw2_ne3_sw3_se3 strider strider strider strider strider
+mansion nw1_ne2_sw2_se2 pig chicken chicken pig cow cow cow
+nether nw3_ne2_sw3_se1 strider strider strider strider strider
+desert nw2_ne1_sw1_se3 rabbit rabbit rabbit rabbit rabbit
+mansion nw2_ne2_sw2_se2
+desert nw3_ne3_sw1_se2 rabbit rabbit rabbit rabbit rabbit
+plains nw1_ne1_sw1_se1
+mansion nw2_ne3_sw2_se2 cow pig pig cow pig sheep
+plains nw1_ne3_sw3_se3 sheep chicken cow cow sheep
+town nw2_ne3_sw2_se2 pig chicken pig chicken cow
+town nw1_ne1_sw3_se1 pig pig chicken sheep cow
+snow nw2_ne2_sw2_se2
+nether nw2_ne2_sw3_se1 strider strider strider strider strider
+desert nw2_ne3_sw2_se1 rabbit rabbit rabbit rabbit rabbit
+mansion nw3_ne2_sw3_se3 chicken cow cow pig cow
 desert nw3_ne3_sw3_se3
-city nw1_ne1_sw3_se3
-circus nw3_ne3_sw3_se2
-beach nw2_ne3_sw3_se3
-mansion nw1_ne3_sw2_se2
-cave nw1_ne2_sw2_se2
-desert nw1_ne2_sw2_se3
-circus nw2_ne3_sw3_se2
-jungle nw1_ne2_sw3_se1
-plains nw1_ne3_sw3_se2
-nether nw3_ne3_sw2_se1
-mansion nw2_ne1_sw1_se1
+plains nw3_ne3_sw3_se2 pig pig pig chicken pig
+plains nw1_ne1_sw1_se1
+desert nw2_ne2_sw3_se2 rabbit rabbit rabbit rabbit rabbit
+mansion nw3_ne1_sw2_se2 cow pig sheep cow pig
+snow nw2_ne2_sw3_se3 rabbit wolf polar_bear rabbit rabbit
+snow nw1_ne3_sw1_se2 rabbit polar_bear rabbit wolf polar_bear
+city nw1_ne2_sw2_se3 wolf villager villager villager wolf
+nether nw1_ne1_sw1_se1
+desert nw1_ne3_sw1_se3 rabbit rabbit rabbit rabbit rabbit
+nether nw1_ne2_sw3_se1 strider strider strider strider strider
+nether nw3_ne3_sw1_se3 strider strider strider strider strider
+plains nw1_ne3_sw3_se3 sheep sheep sheep cow cow
+nether nw1_ne3_sw1_se1 strider strider strider strider strider
+plains nw2_ne1_sw1_se1 chicken sheep cow pig pig
+nether nw1_ne1_sw3_se3 strider strider strider strider strider
+nether nw1_ne2_sw3_se1 strider strider strider strider strider
+plains nw1_ne3_sw3_se1 chicken pig sheep pig pig
+nether nw3_ne3_sw3_se3
+plains nw1_ne1_sw1_se1
+plains nw1_ne1_sw1_se1
+plains nw2_ne2_sw1_se2 cow chicken chicken cow chicken
+nether nw2_ne2_sw3_se2 strider strider strider strider strider
+plains nw1_ne1_sw1_se3 sheep sheep sheep chicken pig
+town nw3_ne1_sw1_se3 cow pig chicken sheep pig
+plains nw2_ne1_sw2_se1 cow chicken cow chicken chicken
+cave nw2_ne3_sw3_se2 bat bat bat bat bat
+plains nw3_ne3_sw3_se3
+plains nw2_ne2_sw2_se2
+nether nw1_ne1_sw1_se1
+plains nw1_ne3_sw3_se3 pig pig pig pig pig pig
+cave nw2_ne2_sw1_se3 bat bat bat bat bat
+plains nw1_ne2_sw3_se3 cow sheep sheep pig chicken
+plains nw2_ne2_sw2_se2
+nether nw2_ne2_sw3_se2 strider strider strider strider strider
+plains nw3_ne1_sw2_se2 chicken sheep chicken sheep pig
+plains nw3_ne3_sw3_se3
+plains nw3_ne3_sw3_se3
+mansion nw1_ne1_sw1_se1
+plains nw3_ne3_sw3_se3
+nether nw3_ne3_sw3_se3
+town nw3_ne1_sw2_se1 cow sheep sheep sheep cow
+plains nw2_ne1_sw1_se2 chicken pig cow chicken sheep
+mansion nw2_ne2_sw2_se2
+plains nw1_ne3_sw2_se1 chicken cow cow sheep sheep
+plains nw3_ne1_sw2_se3 sheep pig chicken sheep pig
+town nw3_ne2_sw3_se3 cow chicken chicken pig sheep
+plains nw2_ne3_sw2_se3 chicken cow sheep pig chicken
+plains nw1_ne3_sw2_se3 cow cow pig cow sheep
+city nw1_ne1_sw1_se1
+nether nw3_ne1_sw2_se1 strider strider strider strider strider
+plains nw2_ne1_sw2_se2 pig cow sheep sheep chicken
+snow nw1_ne3_sw1_se1 polar_bear wolf polar_bear polar_bear rabbit
+town nw1_ne1_sw1_se1
+cave nw1_ne3_sw3_se3 bat bat bat bat bat
+town nw3_ne2_sw1_se3 cow chicken chicken pig sheep
+plains nw3_ne3_sw3_se3
+town nw3_ne3_sw3_se2 chicken sheep cow pig pig pig pig pig
+cave nw2_ne2_sw1_se1 bat bat bat bat bat
+plains nw1_ne1_sw1_se1
+snow nw3_ne1_sw2_se1 rabbit wolf rabbit polar_bear polar_bear
+town nw3_ne3_sw3_se3
+cave nw3_ne3_sw3_se3
+nether nw1_ne2_sw1_se2 strider strider strider strider strider
+snow nw3_ne2_sw3_se2 polar_bear polar_bear wolf wolf rabbit
+town nw1_ne1_sw1_se1
+cave nw3_ne3_sw2_se1 bat bat bat bat bat
+plains nw1_ne3_sw3_se2 chicken sheep pig pig cow
+town nw1_ne2_sw3_se3 sheep cow chicken pig sheep
+cave nw2_ne1_sw3_se2 bat bat bat bat bat
+desert nw3_ne2_sw3_se1 rabbit rabbit rabbit rabbit rabbit
+mansion nw3_ne3_sw2_se1 chicken cow cow cow sheep
+nether nw1_ne3_sw2_se2 strider strider strider strider strider
+plains nw1_ne1_sw1_se1
+snow nw3_ne3_sw3_se3
+cave nw3_ne3_sw1_se1 bat bat bat bat bat
+city nw2_ne2_sw1_se2 villager villager villager villager wolf
+snow nw1_ne1_sw3_se1
+town nw2_ne2_sw2_se2
+city nw1_ne1_sw1_se2 wolf villager wolf wolf wolf
+mansion nw2_ne2_sw2_se2
+nether nw2_ne1_sw2_se1 strider strider strider strider strider
+plains nw3_ne1_sw2_se2 chicken sheep chicken sheep pig
+snow nw2_ne1_sw3_se3 polar_bear wolf rabbit wolf wolf
+town nw3_ne1_sw3_se3 chicken pig pig chicken cow
+city nw2_ne2_sw2_se2
+desert nw2_ne2_sw3_se3 rabbit rabbit rabbit rabbit rabbit
+mansion nw1_ne2_sw3_se2 pig pig cow sheep cow
+plains nw3_ne2_sw3_se3 chicken sheep sheep cow sheep
+town nw2_ne1_sw1_se1 cow pig sheep pig cow
+cave nw2_ne2_sw3_se1 bat bat bat bat bat
+city nw2_ne2_sw2_se2
+desert nw1_ne1_sw1_se1
+mansion nw1_ne2_sw1_se2 sheep pig sheep chicken pig
+nether nw1_ne3_sw2_se2 strider strider strider strider strider
+plains nw1_ne1_sw1_se1
+mansion nw3_ne3_sw2_se2 chicken sheep pig cow chicken
+town nw2_ne1_sw2_se1 cow sheep chicken sheep cow
+cave nw1_ne1_sw1_se1
+city nw3_ne2_sw3_se3 villager villager villager villager villager
+desert nw1_ne2_sw1_se2 rabbit rabbit rabbit rabbit rabbit
+mansion nw3_ne1_sw2_se2 sheep sheep chicken sheep cow
+nether nw3_ne2_sw1_se1 strider strider strider strider strider
+plains nw3_ne3_sw3_se3
+snow nw3_ne1_sw3_se1 wolf wolf wolf polar_bear rabbit
+town nw1_ne1_sw1_se1 chicken sheep cow pig chicken
+cave nw2_ne2_sw2_se2
+mansion nw1_ne2_sw2_se1 cow pig pig chicken sheep
+nether nw3_ne3_sw3_se1 strider strider strider strider strider
+plains nw3_ne2_sw2_se2 chicken pig sheep chicken cow
+snow nw1_ne1_sw2_se2 rabbit rabbit wolf rabbit rabbit
+plains nw1_ne1_sw2_se1 chicken sheep cow pig sheep
+city nw1_ne3_sw3_se1 wolf wolf villager wolf wolf
+city nw3_ne2_sw2_se3 villager wolf villager wolf villager villager
+mansion nw2_ne1_sw3_se2 cow pig cow pig sheep
+plains nw1_ne2_sw2_se1 sheep pig chicken pig cow
+city nw3_ne1_sw2_se2 villager wolf villager wolf villager
+plains nw1_ne1_sw1_se1 cow sheep cow sheep cow
+plains nw3_ne3_sw3_se3
+mansion nw2_ne2_sw2_se3 pig chicken pig pig sheep
+city nw1_ne3_sw2_se2 villager wolf villager wolf wolf
+mansion nw2_ne1_sw3_se1 cow sheep sheep chicken sheep
+plains nw1_ne1_sw1_se1
+cave nw3_ne1_sw2_se2 bat bat bat bat bat
+plains nw3_ne3_sw3_se2 sheep cow pig pig sheep
+plains nw1_ne1_sw2_se1 sheep cow cow pig sheep
+mansion nw1_ne1_sw1_se1
+cave nw2_ne2_sw2_se2 bat bat bat bat bat
+city nw1_ne1_sw2_se2 villager villager villager villager villager
+mansion nw3_ne2_sw2_se1 cow cow sheep sheep pig
+mansion nw2_ne3_sw1_se3 cow sheep sheep pig chicken
+plains nw1_ne1_sw2_se3 sheep sheep sheep chicken pig
+town nw2_ne3_sw3_se3 sheep chicken sheep pig cow
+city nw2_ne2_sw1_se3 wolf wolf wolf villager wolf
+nether nw2_ne3_sw1_se2 strider strider strider strider strider
+plains nw2_ne1_sw1_se3 cow cow cow chicken sheep
+town nw3_ne3_sw1_se1 pig sheep pig cow cow
+mansion nw3_ne3_sw2_se1 pig pig chicken chicken sheep
+plains nw2_ne1_sw3_se1
+cave nw1_ne2_sw1_se3
+nether nw2_ne3_sw2_se3 strider strider strider strider strider
+town nw2_ne2_sw2_se2 sheep cow chicken sheep chicken pig pig pig pig pig
+cave nw3_ne2_sw2_se3 bat bat bat bat bat
+city nw2_ne1_sw2_se1 wolf villager villager wolf villager
+nether nw2_ne2_sw2_se2
+snow nw1_ne3_sw2_se2 wolf rabbit polar_bear polar_bear wolf
+town nw3_ne3_sw3_se3
+cave nw2_ne2_sw2_se3 bat bat bat bat bat
+city nw1_ne3_sw1_se2 villager villager wolf villager wolf
+nether nw3_ne1_sw2_se3 strider strider strider strider strider
+cave nw2_ne2_sw2_se2
+city nw2_ne1_sw1_se1 villager villager wolf villager villager
+nether nw3_ne2_sw1_se2 strider strider strider strider strider
+plains nw1_ne1_sw1_se1
+snow nw2_ne2_sw2_se1 polar_bear wolf rabbit wolf wolf
+town nw1_ne3_sw1_se2 chicken sheep chicken pig cow
+desert nw2_ne3_sw3_se3 rabbit rabbit rabbit rabbit rabbit
+plains nw3_ne3_sw3_se3
+town nw3_ne3_sw3_se3
+cave nw3_ne2_sw2_se2 bat bat bat bat bat
+city nw3_ne3_sw3_se3
+desert nw2_ne3_sw1_se1 rabbit rabbit rabbit rabbit rabbit
+mansion nw1_ne2_sw3_se2 pig pig sheep cow pig
+nether nw2_ne3_sw1_se1 strider strider strider strider strider
+snow nw3_ne3_sw3_se3
+city nw2_ne2_sw2_se2
+desert nw3_ne1_sw3_se1 rabbit rabbit rabbit rabbit rabbit
+nether nw1_ne1_sw3_se2 strider strider strider strider strider
+plains nw1_ne1_sw1_se1
+snow nw1_ne1_sw1_se1
+cave nw2_ne3_sw2_se2 bat bat bat bat bat
+city nw2_ne2_sw3_se2 villager villager wolf wolf villager
+desert nw3_ne3_sw3_se3
+nether nw1_ne3_sw2_se1 strider strider strider strider strider
+plains nw2_ne2_sw3_se2 sheep sheep pig chicken cow
+town nw3_ne2_sw2_se1 sheep sheep sheep cow sheep
+cave nw3_ne3_sw3_se3 bat bat bat bat bat
+city nw3_ne1_sw3_se1 villager wolf wolf villager wolf
+desert nw1_ne3_sw2_se1 rabbit rabbit rabbit rabbit rabbit
+mansion nw1_ne1_sw1_se1
+nether nw1_ne3_sw2_se1 strider strider strider strider strider
+plains nw3_ne3_sw3_se3
+snow nw1_ne1_sw1_se2 rabbit wolf wolf polar_bear polar_bear
+town nw2_ne1_sw1_se3 chicken sheep chicken cow cow
+cave nw3_ne1_sw3_se3 bat bat bat bat bat
+desert nw2_ne2_sw1_se3 rabbit rabbit rabbit rabbit rabbit
+mansion nw3_ne3_sw3_se3
+nether nw2_ne1_sw1_se2 strider strider strider strider strider
+plains nw3_ne3_sw1_se2 cow cow pig pig sheep
+town nw1_ne2_sw2_se3 chicken sheep sheep cow pig
+cave nw2_ne2_sw2_se2
+desert nw3_ne3_sw3_se3
+mansion nw2_ne2_sw2_se2
+plains nw3_ne1_sw2_se3 pig chicken pig pig pig
+snow nw1_ne3_sw3_se2 rabbit polar_bear polar_bear polar_bear polar_bear
+city nw3_ne1_sw2_se2 villager villager wolf wolf villager
+desert nw2_ne2_sw2_se2
+mansion nw2_ne3_sw2_se3 chicken cow sheep cow sheep
+plains nw2_ne2_sw2_se2
+snow nw1_ne3_sw2_se2 wolf rabbit wolf wolf wolf
+plains nw3_ne3_sw1_se3 sheep sheep pig pig pig
+plains nw3_ne3_sw1_se2 cow sheep cow sheep chicken
+plains nw2_ne3_sw3_se3 chicken cow pig pig cow
+town nw1_ne2_sw1_se3 cow chicken sheep sheep
+plains nw2_ne2_sw2_se2 pig sheep sheep sheep chicken
+plains nw3_ne3_sw2_se2 pig pig pig cow pig
+town nw3_ne3_sw1_se1 chicken sheep pig chicken pig
+desert nw2_ne2_sw3_se3 rabbit rabbit rabbit rabbit rabbit
+mansion nw1_ne1_sw2_se2 cow chicken chicken pig cow
+plains nw2_ne2_sw3_se2 cow chicken chicken chicken sheep
+snow nw2_ne2_sw2_se2
+plains nw1_ne1_sw1_se1
+cave nw1_ne1_sw3_se1 bat bat bat bat bat
+plains nw2_ne1_sw3_se1 chicken cow cow
+desert nw2_ne1_sw3_se2
+plains nw2_ne2_sw2_se2
+mansion nw3_ne3_sw3_se3
+plains nw2_ne2_sw2_se2
+snow nw1_ne1_sw1_se1
+town nw1_ne3_sw2_se3 sheep sheep sheep pig pig
+nether nw2_ne2_sw2_se2
+town nw1_ne1_sw1_se2 sheep sheep cow pig pig
+cave nw2_ne3_sw2_se3 bat bat bat bat bat
+city nw2_ne3_sw3_se3 villager wolf villager wolf villager
+plains nw3_ne2_sw1_se2 sheep chicken pig chicken sheep
+town nw1_ne2_sw3_se3 cow cow sheep sheep pig
+cave nw3_ne2_sw3_se2 bat bat bat bat bat
+city nw2_ne2_sw3_se3 wolf villager villager wolf wolf
+mansion nw2_ne1_sw3_se2 cow sheep pig cow sheep
+nether nw2_ne3_sw3_se1 strider strider strider strider strider
+snow nw3_ne2_sw2_se3 wolf polar_bear wolf rabbit rabbit
+city nw3_ne3_sw1_se3 villager villager wolf villager wolf
+desert nw1_ne1_sw1_se1
+nether nw1_ne1_sw1_se1
+plains nw2_ne3_sw2_se2 chicken pig cow cow chicken
+snow nw3_ne3_sw3_se3
+cave nw2_ne1_sw1_se2 bat bat bat bat bat
+city nw1_ne1_sw3_se3 villager wolf wolf wolf wolf
+desert nw1_ne1_sw1_se3 rabbit rabbit rabbit rabbit rabbit
+mansion nw1_ne2_sw1_se3 cow cow sheep cow chicken
+snow nw2_ne2_sw2_se2
+town nw3_ne2_sw1_se1 pig cow chicken chicken pig
+cave nw3_ne2_sw1_se2 bat bat bat bat bat
+city nw1_ne1_sw1_se3 wolf villager villager villager wolf
+desert nw2_ne2_sw1_se1 rabbit rabbit rabbit rabbit rabbit
+cave nw2_ne3_sw1_se3 bat bat bat bat bat
+city nw2_ne1_sw2_se2 villager wolf villager wolf wolf
+mansion nw1_ne1_sw1_se1
+plains nw1_ne2_sw2_se1 sheep sheep sheep cow pig
+snow nw1_ne1_sw2_se1
+town nw1_ne2_sw1_se1 cow cow pig cow
+cave nw1_ne1_sw1_se1
+city nw2_ne3_sw2_se1 wolf villager wolf wolf villager
+nether nw1_ne2_sw2_se2 strider strider strider strider strider
+snow nw1_ne1_sw3_se3 wolf wolf polar_bear rabbit polar_bear
+town nw1_ne1_sw2_se2 sheep chicken cow sheep pig
+cave nw3_ne1_sw1_se2 bat bat bat bat bat
+mansion nw1_ne1_sw2_se1 cow cow sheep pig cow
+plains nw2_ne2_sw2_se2
+snow nw1_ne3_sw3_se2 wolf wolf polar_bear rabbit rabbit
+cave nw1_ne2_sw2_se2 bat bat bat bat bat
+city nw1_ne3_sw3_se2 villager wolf wolf villager wolf
+desert nw2_ne3_sw1_se1 rabbit rabbit rabbit rabbit rabbit
+nether nw3_ne1_sw1_se1 strider strider strider strider strider
+plains nw1_ne3_sw3_se3 sheep sheep sheep cow cow
+snow nw2_ne3_sw3_se3 rabbit rabbit polar_bear rabbit rabbit
+cave nw1_ne3_sw2_se1 bat bat bat bat bat
+city nw3_ne3_sw3_se3
+desert nw1_ne2_sw2_se2 rabbit rabbit rabbit rabbit rabbit
+mansion nw3_ne3_sw1_se2 chicken sheep pig cow chicken
+plains nw3_ne3_sw3_se3
+snow nw3_ne3_sw3_se3
+city nw3_ne3_sw3_se3
+desert nw2_ne1_sw3_se3 rabbit rabbit rabbit rabbit rabbit
+mansion nw2_ne3_sw2_se3 cow sheep cow sheep chicken
+snow nw2_ne2_sw2_se2
+town nw1_ne3_sw2_se2 pig sheep cow cow cow
+cave nw3_ne2_sw2_se1 bat bat bat bat bat
+city nw1_ne1_sw3_se1 wolf wolf wolf villager villager
+desert nw3_ne2_sw2_se2 rabbit rabbit rabbit rabbit rabbit
+mansion nw1_ne3_sw1_se3 pig chicken sheep chicken sheep
+nether nw3_ne2_sw1_se2 strider strider strider strider strider
+plains nw3_ne1_sw3_se3 sheep sheep cow pig chicken
+city nw1_ne3_sw1_se1 wolf villager villager villager villager
+mansion nw2_ne2_sw2_se3 sheep chicken sheep sheep cow
+nether nw3_ne3_sw3_se2 strider strider strider strider strider
+snow nw1_ne3_sw3_se1 polar_bear wolf wolf wolf rabbit
+plains nw1_ne1_sw3_se1 sheep chicken cow chicken sheep
+nether nw1_ne2_sw3_se2 strider strider strider strider strider
+plains nw1_ne3_sw3_se2 sheep pig chicken sheep pig
+mansion nw3_ne3_sw2_se1 sheep sheep sheep pig
+plains nw1_ne3_sw1_se1 pig cow sheep sheep cow
+plains nw3_ne1_sw1_se2 pig pig chicken cow chicken
+cave nw1_ne1_sw3_se2 bat bat bat bat bat
+plains nw1_ne3_sw3_se3 sheep sheep sheep cow cow pig
+town nw1_ne3_sw2_se3
+plains nw1_ne1_sw1_se1
+cave nw2_ne2_sw2_se2 bat bat bat bat bat
+plains nw3_ne1_sw1_se1 pig pig sheep sheep sheep
+plains nw2_ne2_sw2_se2
+town nw1_ne3_sw1_se2
+mansion nw3_ne2_sw2_se3 pig pig pig pig pig
+city nw2_ne3_sw3_se2 villager villager villager wolf wolf
+nether nw2_ne2_sw2_se2
+cave nw1_ne3_sw1_se1 bat bat bat bat bat
+city nw1_ne3_sw1_se3 wolf wolf villager wolf villager
+mansion nw2_ne2_sw2_se2
+nether nw2_ne3_sw1_se1 strider strider strider strider strider
+plains nw3_ne1_sw1_se1 pig sheep chicken cow pig
+cave nw1_ne1_sw1_se3 bat bat bat bat bat
+mansion nw2_ne2_sw2_se2
+cave nw2_ne1_sw3_se3 bat bat bat bat bat
+nether nw1_ne2_sw1_se3 strider strider strider strider strider
+town nw3_ne2_sw3_se2 chicken chicken chicken cow pig
+mansion nw2_ne1_sw3_se2 cow pig cow chicken pig
+nether nw2_ne3_sw3_se2 strider strider strider strider strider
+plains nw2_ne3_sw1_se2 sheep cow chicken sheep chicken
+town nw3_ne1_sw1_se2 pig cow sheep pig pig
+cave nw3_ne3_sw2_se2 bat bat bat bat bat
+mansion nw1_ne1_sw1_se1
+town nw1_ne3_sw2_se3 pig cow cow chicken sheep
+city nw2_ne2_sw2_se2
+desert nw2_ne3_sw2_se1 rabbit rabbit rabbit rabbit rabbit
+mansion nw2_ne2_sw2_se2
+snow nw3_ne2_sw3_se2 wolf rabbit rabbit rabbit wolf
+town nw2_ne1_sw3_se3 sheep chicken sheep pig chicken
+cave nw3_ne3_sw3_se3
+city nw3_ne3_sw3_se3 wolf villager wolf villager wolf
+mansion nw1_ne2_sw1_se2 pig pig sheep pig sheep
+plains nw2_ne2_sw2_se2
+snow nw2_ne2_sw2_se2
+cave nw3_ne2_sw2_se1 bat bat bat bat bat
+city nw2_ne1_sw3_se1 villager wolf wolf villager wolf
+desert nw2_ne2_sw2_se2
+plains nw3_ne3_sw3_se3
+snow nw1_ne1_sw1_se1
+cave nw3_ne1_sw3_se3 bat bat bat bat bat
+mansion nw1_ne2_sw3_se3 cow chicken sheep cow chicken sheep
+plains nw1_ne3_sw2_se1 pig cow pig sheep sheep
+snow nw1_ne1_sw1_se1
+town nw1_ne3_sw2_se2 pig chicken sheep chicken chicken
+desert nw1_ne1_sw2_se3 rabbit rabbit rabbit rabbit rabbit
+cave nw2_ne2_sw3_se2 bat bat bat bat bat
+nether nw2_ne1_sw2_se2 strider strider strider strider strider
+snow nw3_ne3_sw3_se3
+town nw1_ne1_sw1_se1
+cave nw3_ne1_sw3_se1 bat bat bat bat bat
+city nw1_ne1_sw2_se1 wolf wolf villager villager villager
+nether nw2_ne2_sw2_se2
+plains nw3_ne1_sw2_se2 sheep chicken cow pig cow
+city nw1_ne1_sw1_se2 wolf villager villager wolf wolf
+desert nw2_ne1_sw3_se3 rabbit rabbit rabbit rabbit rabbit
+plains nw2_ne3_sw2_se3 cow sheep chicken cow pig
+town nw1_ne3_sw1_se2 sheep chicken cow chicken chicken
+cave nw3_ne3_sw3_se3
+desert nw3_ne2_sw2_se2 rabbit rabbit rabbit rabbit rabbit
+mansion nw1_ne1_sw1_se1 pig chicken pig sheep chicken
+nether nw1_ne3_sw3_se1 strider strider strider strider strider
+plains nw2_ne2_sw2_se2
+snow nw1_ne1_sw1_se1
+town nw2_ne2_sw2_se2
+cave nw2_ne3_sw1_se1 bat bat bat bat bat
+mansion nw3_ne3_sw3_se3 pig sheep cow pig cow
+plains nw2_ne1_sw1_se1 chicken sheep cow pig pig
+snow nw1_ne3_sw3_se2 polar_bear rabbit wolf rabbit rabbit

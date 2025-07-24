@@ -184,6 +184,10 @@ with open("env_specific_mobs.txt","r") as animal_specs:
             allowed_animals = info[1].split("|")
         custom_spawn_dict[info[0]] = [spawn_pos,allowed_animals]
 
+command_block_list = []
+qea_envs = []
+qea_locations = []
+
 # create command blocks, placeholder redstone blocks, and document locations for animal spawns
 def add_animal_spawns(world,env,env_mobs,command_block_template,x,y,z):
     global command_block_list
@@ -279,10 +283,6 @@ def get_random_environment():
 
 
 def main():
-    command_block_list = []
-
-    qea_envs = []
-    qea_locations = []
 
     ###
     ###     Read QEA pairs from csv
@@ -297,11 +297,9 @@ def main():
         for col in range(len(first_row)): # find which column in csv has environment info.
             if first_row[col] == "Environment":
                 env_column = col 
-            elif first_row[col] == "Question":
-                question_col = col
 
-        if env_column == -1 or question_col == -1:
-            print("file 'qea_for_environment_generation.csv' is missing one or more column(s): 'Environment' or 'Question'")
+        if question_col == -1:
+            print("file 'qea_for_environment_generation.csv' is missing 'Environment' column")
 
         for row in env_rows[1::]:
             question = row[question_col]
@@ -336,7 +334,7 @@ def main():
 
     setup_new_environment() # clones template world and changes name to new_environment
 
-    world = amulet.load_level("saves/eqa_environment")
+    world = amulet.load_level("saves/pre_commands")
 
     command_block_template = world.get_version_block(-8,4,-8, "minecraft:overworld",game_version) # get CB from template
 
